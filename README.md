@@ -1,6 +1,6 @@
 <table border="1">
   <tr>
-    <td><b>TÍTULO:</b></td>
+    <td><b>TÍTULO:                          </b></td>
     <td colspan="2">ACOPLAMIENTO DE SENSORES...</td>
   </tr>
   <tr>

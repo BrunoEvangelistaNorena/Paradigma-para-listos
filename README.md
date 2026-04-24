@@ -5,7 +5,7 @@
   </tr>
   <tr>
     <td> CIP: G06V20/69 </td>
-    <td>Investigating or analysing materials by the use of optical means, i.e. using sub-millimetre waves, infrared, visible or ultraviolet light (G01N3/00 - G01N19/00 take precedence)
+    <td>Investigating or analysing materials by the use of optical means, i.e. using sub-millimetre waves, infrared, visible or ultraviolet light (G01N3/00 - G01N19/00 take precedence)</td>
   </tr>
   <tr>
     <td> NÚMERO DE PUBLICACIÓN </td>

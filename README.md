@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td colspan="2"><b>TÍTULO:</b> ACOPLAMIENTO DE SENSORES... <b> pues chad no? </b> </td>
+    <td colspan="2"><b>TÍTULO:</b> ACOPLAMIENTO DE SENSORES... <c> pues chad no? </c> aaaaa </td>
   </tr>
   <tr>
     <td colspan="5"><b>RESUMEN:</b> Métodos, sistemas...</td>

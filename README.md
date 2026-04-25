@@ -22,3 +22,31 @@
     <td colspan="3"> https://worldwide.espacenet.com/patent/search/family/089997042/publication/US2024071072A1?q=pn%3DUS2024071072A1 </td>
   </tr>
 </table>
+
+
+
+<table border="1">
+  <tr>
+    <td><b>TÍTULO </b></td>
+    <td colspan="2">    </td>
+  </tr>
+  <tr>
+    <td>     </td>
+    <td colspan="2">     </td>
+  </tr>
+  <tr>
+    <td> NÚMERO DE PUBLICACIÓN </td>
+    <td>   </td>
+    <td> IMAGEN </td>
+  </tr>
+  <tr>
+    <td style="width:15%"> Resumen </td>
+    <td style="width:40%">     </td>
+    <td style="width:45%" > <img src="patente1.png" width="100%"/>  </td>
+  </tr>
+  <tr>
+    <td > LINK </td>
+    <td colspan="3">   </td>
+  </tr>
+</table>
+

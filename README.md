@@ -18,7 +18,7 @@
     <td style="width:45%" > <img src="patente1.png" width="100%"/>  </td>
   </tr>
   <tr>
-    <td colspan="2"> LINK </td>
-    <td> https://worldwide.espacenet.com/patent/search/family/089997042/publication/US2024071072A1?q=pn%3DUS2024071072A1 </td>
+    <td > LINK </td>
+    <td colspan="3"> https://worldwide.espacenet.com/patent/search/family/089997042/publication/US2024071072A1?q=pn%3DUS2024071072A1 </td>
   </tr>
 </table>
